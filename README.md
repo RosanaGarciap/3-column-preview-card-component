@@ -11,3 +11,4 @@ The users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
+To see the full description of the challenge click [here](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-)
